@@ -1,0 +1,13 @@
+{
+  "name": "fn-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo ",
+    "test:functional": "testcafe chrome src/functional-tests"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "testcafe": "^1.10.1"
+  }
+}
